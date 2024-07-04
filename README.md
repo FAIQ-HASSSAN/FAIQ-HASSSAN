@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/FAIQ-HASSSAN/FAIQ-HASSSAN/blob/main/linkedin-banner.jpeg)
+![Banner](https://github.com/FAIQ-HASSSAN/FAIQ-HASSSAN/blob/main/new-linkedin-banner.png)
 <h1 align="center">Hi 👋, I'm Faiq Hassan</h1>
 
 
